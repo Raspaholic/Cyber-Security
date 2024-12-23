@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Flutter App Developer<br>Web Developer<br>Python Developer <br>Cyber Security <br>Currently completing A+, Net+, Sec+ Certificates<br>Automotive - Landscape - Astrophotographer
 
 
