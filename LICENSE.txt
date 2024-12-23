@@ -1,0 +1,12 @@
+Copyright [2024] Anthony Lounsberry
+
+All rights reserved.
+
+This repository and its contents, including code, documentation, and other resources, are made available for viewing and reference purposes only. 
+
+You are not permitted to:
+- Copy, modify, or adapt any part of this repository.
+- Distribute, sublicense, or use this repository or its contents for any purpose.
+- Claim ownership or credit for any work contained within this repository.
+
+If you have questions or would like to request permission for specific use cases, please contact me at [alouns27@gmail.com] or [raspaholic.industries@gmail.com].
