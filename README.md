@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio and projects repository. This repository s
 This repository is for **viewing purposes only**.  
 All rights are reserved, and no part of this work may be copied, modified, distributed, or used for any purpose without explicit written permission.
 
-For inquiries or permission requests, please contact me at [alouns27@gmail.com] or [raspaholic.idustries@gmail.com].
+For inquiries or permission requests, please contact me at [raspaholic.idustries@gmail.com].
 
 
 REFER TO LICENSE.txt
