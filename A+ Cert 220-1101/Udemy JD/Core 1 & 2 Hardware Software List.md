@@ -1,0 +1,89 @@
+## Equipment 
+- [ ] Apple tablet/phone 
+- [ ] Android tablet/phone 
+- [ ] Windows tablet 
+- [ ] Chromebook 
+- [ ] Windows laptop/Mac laptop/Linux laptop 
+- [ ] Windows desktop/Mac desktop/Linux desktop 
+- [ ] Windows server with Active Directory and Print Management 
+- [ ] Monitors 
+- [ ] Projectors 
+- [ ] SOHO router/switch 
+- [ ] Access point 
+- [ ] VoIP phone 
+- [ ] Printer
+	- [ ] Laser/inkjet
+	- [ ] Wireless
+	- [ ] 3D printer 
+	- [ ] Thermal 
+- [ ] Surge suppressor 
+- [ ] Uninterruptible power supply (UPS)
+- [ ] Smart devices (IoT devices)
+- [ ] Server with a hypervisor 
+- [ ] Punchdown block
+- [ ] Patch panel 
+- [ ] Webcams 
+- [ ] Speakers 
+- [ ] Microphones 
+
+## Spare parts/hardware 
+- [ ] Motherboards
+- [ ] RAM
+- [ ] Hard drives 
+- [ ] Standard technician toolkit 
+- [ ] Power supplies 
+- [ ] Video cards 
+- [ ] Sound cards 
+- [ ] Network cards 
+- [ ] Wireless cards 
+- [ ] Fans/cooling devices/heat sink 
+- [ ] CPUs
+- [ ] Assorted connectors/cables 
+	- [ ] USB
+	- [ ] HDMI
+	- [ ] DisplayPort
+	- [ ] DVI 
+	- [ ] VGA
+- [ ] Adapters 
+	- [ ] Bluetooth adapter 
+- [ ] Network cables 
+- [ ] Unterminated network cable/connectors 
+- [ ] Alternating current (AC) adapters 
+- [ ] Optical drives 
+- [ ] Screws/standoffs 
+- [ ] Cases 
+- [ ] Maintenance kit
+- [ ] Mice/keyboards 
+- [ ] Keyboard-video-mouse (KVM)
+- [ ] Console cable SSD 
+
+## Tools 
+- [ ] Screwdriver 
+- [ ] Multimeter 
+- [ ] Wire cutters 
+- [ ] Punchdown tool 
+- [ ] Crimper 
+- [ ] Power supply tester 
+- [ ] Cable stripper 
+- [ ] Standard technician toolkit 
+- [ ] Electrostatic discharge (ESD) strap 
+- [ ] Thermal paste 
+- [ ] Cable tester 
+- [ ] Cable toner 
+- [ ] WiFi analyzer 
+- [ ] SATA to USB connectors 
+
+## Software 
+- [ ] Operating Systems 
+	- [ ] Linux 
+	- [ ] Chrome OS
+	- [ ] Microsoft Windows 
+	- [ ] macOS 
+	- [ ] Android 
+	- [ ] iOS 
+- [ ] Preinstallation environment (PE) disk/live compact disc (CD) 
+- [ ] Antivirus software 
+- [ ] Virtualization software 
+- [ ] Anti-malware 
+- [ ] Driver software 
+
