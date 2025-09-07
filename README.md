@@ -3,7 +3,7 @@ Repo to track portfolio and projects
 
 # [Cyber Security]
 
-Welcome to my cybersecurity portfolio and projects repository. This repository showcases my work in cybersecurity, including tools, scripts, and documentation I've developed. This repository will also track my progress/education with Western Governors University (WGU).
+This repository showcases my work in cybersecurity, including tools, scripts, and documentation I've developed. This repository will also track my progress/education with Western Governors University (WGU).
 
 ## CONTENTS
 *Certificates*
